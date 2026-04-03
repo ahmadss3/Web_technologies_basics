@@ -1,2 +1,1 @@
-#   Web Teknology
-##  Assignment 1
+## Web technology - Learning
